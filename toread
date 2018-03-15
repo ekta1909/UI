@@ -1,0 +1,10 @@
+1)SVM-RFE
+2)K-fold cross validation
+3)Random forest
+4)we compared the effectiveness of four ensemble models, Quantile Re-
+gression Forest (QRF), Quantile Regression Neural Network Ensemble (QRNN), Bagging
+
+Regression Ensemble (BAGReg) and Boosting Regression Ensemble (BOOSTReg) for pre-
+dicting the stock price of two categories of targets which include four U.S. major indices and
+
+nine U.S. major sector indices.
